@@ -1,0 +1,35 @@
+input.input-style {
+    text-align: center;
+    padding: 9px;
+    width: 219px;
+    margin: 0px 0px 11px 15px;
+}
+
+input.input-style-age {
+    text-align: center;
+    padding: 10px 0px 10px 32px;
+    margin: 0px 0px 11px 15px;
+}
+
+.input-style-checkBox {
+    margin: 0px 0px 11px 15px;
+}
+
+.form-text {
+    font-size: 18px;
+}
+
+button {
+    font-family: system-ui;
+    padding: 10px 8px 10px 8px;
+    width: 38%;
+    margin-left: 33px;
+    margin-top: 11px;
+    background-color: #4be683;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #99e5b4;
+}
